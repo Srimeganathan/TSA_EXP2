@@ -87,7 +87,8 @@ A - LINEAR TREND ESTIMATION
 <img width="1056" height="688" alt="image" src="https://github.com/user-attachments/assets/66d8604f-8cba-4297-91a8-dcd7051377b2" />
 
 B- POLYNOMIAL TREND ESTIMATION
-![Uploading image.png…]()
+<img width="1054" height="682" alt="image" src="https://github.com/user-attachments/assets/da944fe9-cff4-4802-bbb8-1d9c28497e8b" />
+
 
 ### RESULT:
 Thus the python program for linear and Polynomial Trend Estiamtion has been executed successfully.
